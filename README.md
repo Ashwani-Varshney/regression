@@ -6,7 +6,7 @@ For the given dataset our framed regression problem is to predict the total reco
 Independent attribute: Demand
 Dependent attribute: Total Recovery.
 Both the terms are highly correlated that can be seen in the following correlation matrix. The values for the attributes are in crores.
-![correlation matrix](https://github.com/Ashwani-Varshney/regression/images/corr.jpg)
+![correlation matrix](https://github.com/Ashwani-Varshney/regression/blob/main/corr.jpg)
 
 |Library|	Function|	Usage|
 |-------|------|--------|
@@ -21,9 +21,14 @@ Both the terms are highly correlated that can be seen in the following correlati
 
 Result and Interpretation-
 -
-![Regression plot](https://github.com/Ashwani-Varshney/regression/images/plot.jpg) 
+
+![Regression plot](https://github.com/Ashwani-Varshney/regression/blob/main/plot1.jpg) 
+-
+
 The actual and predicted values are quite similar to each other, as observed from the above graph.
- 
+
+![Regression plot](https://github.com/Ashwani-Varshney/regression/blob/main/plot.jpg) 
+-
 From the above graph we can see that the linear model fits the data quite well.
 Mean Absolute Error: 0.8357969545192269
 Mean Squared Error: 2.0625294895366375
